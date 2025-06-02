@@ -1,3 +1,13 @@
-"bin": {
-  "crazepanel-installer": "index.js"
+{
+  "name": "craze-installer",
+  "version": "1.0.0",
+  "description": "CrazePanel Installer Script",
+  "bin": {
+    "craze-installer": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mehetab",
+  "license": "MIT"
 }
